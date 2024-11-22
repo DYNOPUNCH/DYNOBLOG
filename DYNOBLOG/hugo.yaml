@@ -1,0 +1,4 @@
+baseURL: https://dyno-blog.com
+languageCode: en-us
+title: DYNOBLOG
+theme: ["PaperMod"]
